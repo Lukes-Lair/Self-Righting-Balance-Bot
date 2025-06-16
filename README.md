@@ -13,4 +13,4 @@ Some Duct tape
 5. Put the 3D arms into the motors
 6. Upload the code
 7. Have Fun!
-## If you need any help, feel free to ping me!
+## If you need any help, feel free to dm me on discord!
